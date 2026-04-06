@@ -1,4 +1,4 @@
-```# 🚗 AkıllıPark: Otopark Yönetim ve Otomasyon Sistemi
+# 🚗 AkıllıPark: Otopark Yönetim ve Otomasyon Sistemi
 
 Bu proje, modern şehircilik ihtiyaçlarına yönelik olarak geliştirilmiş, donanım destekli bir **Akıllı Otopark Yönetim Sistemi**dir. RFID teknolojisi ile yetkilendirme sağlar ve C# tabanlı bir arayüz ile otopark doluluk oranlarını gerçek zamanlı takip eder.
 
@@ -58,4 +58,4 @@ Bu proje, modern şehircilik ihtiyaçlarına yönelik olarak geliştirilmiş, do
 ## 💡 Projenin Amacı
 
 Bu sistem, manuel park yönetimindeki zaman kaybını önlemek, insan hatalarını minimize etmek ve otopark güvenliğini otomatize ederek verimliliği artırmak amacıyla tasarlanmıştır.
-```
+
